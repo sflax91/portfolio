@@ -1,16 +1,20 @@
 ---
 ---
 
-header img {
+/* Sidebar/headshot logo */
+header img,
+.site-logo,
+img[src*="headshot"] {
     width: 170px;
     max-width: 100%;
     height: auto;
     border-radius: 50%;
 }
 
-.main-content img {
-    width: 100%;
+/* All content images */
+img {
     max-width: 750px;
+    width: 100%;
     height: auto;
     display: block;
     margin: 1rem auto;
