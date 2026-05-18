@@ -6,7 +6,7 @@
 
 ### Projects
 * <a href="./assets/ISYE6414_finalreport_group90.pdf" target="_blank">A Comparative Multi-State Analysis of Criminal Recidivism Risk Factors</a>
-  * Technical Skills: python, pandas, logistic regression, data cleaning
+  * Technical Skills: R, python, pandas, logistic regression, data cleaning
 ![Odds Ratios](https://github.com/sflax91/portfolio/blob/main/assets/odds_ratios_for_portfolio.png "Odds Ratios")
   * Code example: [Georgia Dataset](https://github.com/sflax91/portfolio/blob/main/assets/georgianotebook.pdf)
  
