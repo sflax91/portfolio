@@ -13,6 +13,7 @@
  
 * <a href="./assets/team005final.pdf" target="_blank">From Risk Labels to Timelines: Predicting When Species Will Go Extinct </a>
   * Technical skills: python, pandas, R, logistic regression, data imputation, one-hot encoding
+  * Code example: [Logistic Regression](https://github.com/sflax91/portfolio/blob/main/assets/logisticnotebook.pdf)
  
 * <a href="./assets/ISYE%206501%20Course%20Project.pdf" target="_blank">Calimax Case Study </a>
   * Technical skills: predictive modeling, spoilage estimation, operational optimization using the Weibull distribution, exponential smoothing
