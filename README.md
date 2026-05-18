@@ -17,8 +17,8 @@
 ---
 
 ### Education
-* MS Analytics, Georgia Tech
-* BA Psychology, University of Maryland
+* MS Analytics, Georgia Tech <img src="./assets/gtlogo.png" width="20">
+* BA Psychology, University of Maryland <img src="./assets/umdlogo.png" width="20">
 
 ---
 
