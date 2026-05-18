@@ -1,6 +1,22 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
 # Data Analyst
+
+---
+<div style="display:flex;justify-content:center;gap:24px;margin-top:24px;align-items:center;">
+  <a href="https://www.linkedin.com/in/solomon-flax/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" height="40">
+  </a>
+  <a href="https://public.tableau.com/app/profile/sflax91" target="_blank">
+    <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" width="40" height="40">
+  </a>
+  <a href="https://github.com/sflax91" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/48/github.png" alt="GitHub" width="40" height="40">
+  </a>
+</div>
+
+---
+
 ### Education
 * MS Analytics, Georgia Tech
 * BA Psychology, University of Maryland
@@ -63,14 +79,4 @@ Designed an integrated analytical framework for a Mexican grocery chain to reduc
 
 ---
 
-<div style="display:flex;justify-content:center;gap:24px;margin-top:24px;align-items:center;">
-  <a href="https://www.linkedin.com/in/solomon-flax/" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" height="40">
-  </a>
-  <a href="https://public.tableau.com/app/profile/sflax91" target="_blank">
-    <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" width="40" height="40">
-  </a>
-  <a href="https://github.com/sflax91" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/48/github.png" alt="GitHub" width="40" height="40">
-  </a>
-</div>
+
