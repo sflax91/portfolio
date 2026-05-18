@@ -6,7 +6,10 @@
 
 ### Projects
 * <a href="./assets/ISYE6414_finalreport_group90.pdf" target="_blank">A Comparative Multi-State Analysis of Criminal Recidivism Risk Factors</a>
-  * Summary: Built logistic regression and Lasso regression models to predict two-year recidivism risk using individual-level data from Georgia and Wisconsin prisons, supplemented with U.S. census microdata. Conducted data preprocessing, variable transformation (log transforms, categorical binning), and multicollinearity diagnostics to prepare datasets for modeling. The Georgia model achieved an AUC of 0.777, competitive with published actuarial tools, identifying employment stability and program attendance as key protective factors against reoffending.
+  * Summary: 
+     * Built logistic regression and Lasso models to predict two-year recidivism risk using prison data from Georgia and Wisconsin, supplemented with U.S. census microdata.
+     * The Georgia model achieved AUC 0.777, competitive with published actuarial tools.
+     * Key findings: employment stability and program attendance are the strongest protective factors against reoffending.
   * Technical Skills: R, python, pandas, logistic regression, ridge regression, VIF analysis, data cleaning
   * Code example: [Georgia Dataset](https://github.com/sflax91/portfolio/blob/main/assets/georgianotebook.pdf)
     ![Odds Ratios](/assets/odds_ratios_for_portfolio.png)
