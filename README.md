@@ -14,7 +14,7 @@
   </a>
 </div>
 
-<br></br>  
+
 ---
 
 ### Education
