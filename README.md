@@ -17,7 +17,7 @@
 
 ---
 
-### Education
+## Education
 <ul>
   <li>MS Analytics, Georgia Tech <img src="./assets/gtlogo.png" width="20"></li>
   <li>BA Psychology, University of Maryland <img src="./assets/umdlogo" width="30" style="vertical-align:middle;margin-left:-4px;position:relative;top:-2px;"></li>
@@ -25,7 +25,7 @@
 
 ---
 
-### Projects
+## Projects
 
 <a href="./assets/ISYE6414_finalreport_group90.pdf" target="_blank"><strong>A Comparative Multi-State Analysis of Criminal Recidivism Risk Factors</strong></a>
 
