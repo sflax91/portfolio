@@ -19,3 +19,4 @@
  
 ### [Tableau Profile](https://public.tableau.com/app/profile/sflax91)
 
+### [LinkedIn](https://www.linkedin.com/in/solomon-flax/)
