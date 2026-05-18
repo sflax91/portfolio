@@ -63,3 +63,4 @@ Designed an integrated analytical framework for a Mexican grocery chain to reduc
 
 ### [Tableau Profile](https://public.tableau.com/app/profile/sflax91)
 ### [LinkedIn](https://www.linkedin.com/in/solomon-flax/)
+### [GitHub](https://github.com/sflax91)
