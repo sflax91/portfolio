@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
 # Data Analyst
 ### Education
 * MS Analytics, Georgia Tech
@@ -61,6 +63,14 @@ Designed an integrated analytical framework for a Mexican grocery chain to reduc
 
 ---
 
-### [Tableau Profile](https://public.tableau.com/app/profile/sflax91)
-### [LinkedIn](https://www.linkedin.com/in/solomon-flax/)
-### [GitHub](https://github.com/sflax91)
+<div style="display:flex;justify-content:center;gap:12px;margin-top:24px;">
+  <a href="https://www.linkedin.com/in/solomon-flax/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://public.tableau.com/app/profile/sflax91" target="_blank">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau">
+  </a>
+  <a href="https://github.com/sflax91" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</div>
