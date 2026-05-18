@@ -14,12 +14,12 @@
   </a>
 </div>
 
-
+<br></br>  
 ---
 
 ### Education
 * MS Analytics, Georgia Tech <img src="./assets/gtlogo.png" width="20">
-* BA Psychology, University of Maryland <img src="./assets/umdlogo" width="30" height="30" style="vertical-align:middle;">
+* BA Psychology, University of Maryland <img src="./assets/umdlogo" width="26" height="26" style="vertical-align:middle;">
 
 ---
 
