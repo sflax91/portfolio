@@ -22,10 +22,10 @@ Built logistic regression and Lasso models to predict two-year recidivism risk u
 
 Code example: [Georgia Dataset](https://github.com/sflax91/portfolio/blob/main/assets/georgianotebook.pdf)
 
-<img src="/assets/odds_ratios_for_portfolio.png" alt="Odds Ratios" style="max-width:100%;cursor:pointer;" onclick="document.getElementById('modal').style.display='flex'">
+<img src="./assets/odds_ratios_for_portfolio.png" alt="Odds Ratios" style="max-width:100%;cursor:pointer;" onclick="document.getElementById('modal').style.display='flex'">
 
 <div id="modal" onclick="this.style.display='none'" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.8);z-index:1000;justify-content:center;align-items:center;cursor:pointer;">
-  <img src="/assets/odds_ratios_for_portfolio.png" style="max-width:90%;max-height:90%;">
+  <img src="./assets/odds_ratios_for_portfolio.png" style="max-width:90%;max-height:90%;">
 </div>
 
 <hr style="border:none;border-top:1px solid #eee;margin:24px 0;">
