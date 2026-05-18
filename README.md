@@ -63,14 +63,14 @@ Designed an integrated analytical framework for a Mexican grocery chain to reduc
 
 ---
 
-<div style="display:flex;justify-content:center;gap:12px;margin-top:24px;">
+<div style="display:flex;justify-content:center;gap:20px;margin-top:24px;align-items:center;">
   <a href="https://www.linkedin.com/in/solomon-flax/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://cdn.simpleicons.org/linkedin/0077B5" alt="LinkedIn" width="36" height="36">
   </a>
   <a href="https://public.tableau.com/app/profile/sflax91" target="_blank">
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau">
+    <img src="https://cdn.simpleicons.org/tableau/E97627" alt="Tableau" width="36" height="36">
   </a>
   <a href="https://github.com/sflax91" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="36" height="36">
   </a>
 </div>
