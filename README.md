@@ -8,7 +8,7 @@
 * <a href="./assets/ISYE6414_finalreport_group90.pdf" target="_blank">A Comparative Multi-State Analysis of Criminal Recidivism Risk Factors</a>
   * Technical Skills: R, python, pandas, logistic regression, data cleaning
 
-![Odds Ratios](https://github.com/sflax91/portfolio/blob/main/assets/odds_ratios_for_portfolio.png)
+  ![Odds Ratios](/assets/odds_ratios_for_portfolio.png)
   * Code example: [Georgia Dataset](https://github.com/sflax91/portfolio/blob/main/assets/georgianotebook.pdf)
  
 * <a href="./assets/team005final.pdf" target="_blank">From Risk Labels to Timelines: Predicting When Species Will Go Extinct </a>
