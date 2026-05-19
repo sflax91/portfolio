@@ -1,3 +1,6 @@
 title: Solomon Flax
 logo: /assets/headshot_circle.png
 theme: jekyll-theme-minimal
+github:
+  is_project_page: false
+description: Contact me directly at sflax91@gmail.com
