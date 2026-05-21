@@ -27,6 +27,24 @@
 
 ## Projects
 
+
+<a href="https://medium.com/@sflax91/beyond-the-shot-a-possession-level-approach-to-soccer-analytics-and-world-cup-prediction-805e10f65426" target="_blank"><strong>From Possession to Prediction: A Soccer Analytics Framework for Shot Creation, xG Quality, and Match Outcomes</strong></a>
+
+Built an end-to-end soccer analytics pipeline on 640k+ possession sequences from the StatsBomb open data repository, engineering a custom possession classification system across eight tactical types. Developed logistic and linear regression models to predict shot creation and shot quality from lineup composition, applying cluster differential features to resolve multicollinearity when integrating k-means player archetype data. Built a match outcome model using xG differential as a foundation for 2026 FIFA World Cup win probability predictions.
+
+<p>
+  <span style="background:#e8f0fe;border-radius:4px;padding:2px 8px;margin:2px;display:inline-block;font-size:0.85em;">Python</span>
+  <span style="background:#e8f0fe;border-radius:4px;padding:2px 8px;margin:2px;display:inline-block;font-size:0.85em;">pandas</span>
+  <span style="background:#e8f0fe;border-radius:4px;padding:2px 8px;margin:2px;display:inline-block;font-size:0.85em;">polars</span>
+  <span style="background:#e8f0fe;border-radius:4px;padding:2px 8px;margin:2px;display:inline-block;font-size:0.85em;">DuckDB</span>
+  <span style="background:#e8f0fe;border-radius:4px;padding:2px 8px;margin:2px;display:inline-block;font-size:0.85em;">Logistic Regression</span>
+  <span style="background:#e8f0fe;border-radius:4px;padding:2px 8px;margin:2px;display:inline-block;font-size:0.85em;">Linear Regression</span>
+  <span style="background:#e8f0fe;border-radius:4px;padding:2px 8px;margin:2px;display:inline-block;font-size:0.85em;">VIF Analysis</span>
+  <span style="background:#e8f0fe;border-radius:4px;padding:2px 8px;margin:2px;display:inline-block;font-size:0.85em;">Feature Engineering</span>
+</p>
+
+<hr style="border:none;border-top:1px solid #eee;margin:24px 0;">
+
 <a href="./assets/ISYE6414_finalreport_group90.pdf" target="_blank"><strong>A Comparative Multi-State Analysis of Criminal Recidivism Risk Factors</strong></a>
 
 Built logistic regression and Lasso models to predict two-year recidivism risk using prison data from Georgia and Wisconsin, supplemented with U.S. census microdata. The Georgia model achieved AUC 0.777, competitive with published actuarial tools. Key findings: employment stability and program attendance are the strongest protective factors against reoffending.
